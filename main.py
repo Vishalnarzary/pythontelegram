@@ -7,7 +7,7 @@ from labels import lbl
 model = ResNet50()
 
 def start(updater, context): 
-	updater.message.reply_text("Lets classify objects!")
+	updater.message.reply_text("Welcome to the classificatio bot!")
 
 def help_(updater, context): 
 	updater.message.reply_text("Just send the image you want to classify.")
