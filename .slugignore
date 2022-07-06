@@ -1,6 +1,4 @@
-
-
 *.psd
 *.pdf
-/test
 /spec
+/tensorflow
